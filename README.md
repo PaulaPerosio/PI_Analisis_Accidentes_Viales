@@ -86,10 +86,6 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 
     Objetivo: Reducir en un 7% respecto al año anterior.
 
-  + **Cantidad de accidentes fatales en las comunas 1, 4, 7, 8 y 9**
-
-    Objetivo: Reducir en un 7% respecto al año anterior.
-
   + **Cantidad de accidentes fatales en cruces de calles**
   
     Objetivo: Reducir en un 7% respecto al año anterior.
