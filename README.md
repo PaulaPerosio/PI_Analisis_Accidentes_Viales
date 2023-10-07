@@ -104,6 +104,15 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 </p>
 
 
+### 4. Informe ([Link](https://github.com/PaulaPerosio/PI_Analisis_Accidentes_Viales/blob/main/Informe.pdf))
+
+<p align="justify">
+
+  Después del análisis de los datos, de establecer relaciones con otros conjuntos de datos y de evaluar el cumplimiento de los KPIs, entre otras cosas; se realizó un informe descriptivo para colaborar en la toma de decisiones futuras respecto a los accidentes viales.
+
+</p>
+
+
 ## **Enlaces**
 
 + Acceso al Informe [Link](https://github.com/PaulaPerosio/PI_Analisis_Accidentes_Viales/blob/main/Informe.pdf)
