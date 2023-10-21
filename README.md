@@ -95,7 +95,7 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 </p>
 
 
-### 3. Dashboard Interactivo ([Link](...))
+### 3. Dashboard Interactivo ([Link](https://github.com/PaulaPerosio/PI_Analisis_Accidentes_Viales/blob/main/Power_BI/PI_2_Dashboard.pbix))
 
 <p align="justify">
 
@@ -117,7 +117,7 @@ El dashboard presentado, junto a las tranformaciones y vinculaciones con otros d
 
 + Acceso al Informe [Link](https://github.com/PaulaPerosio/PI_Analisis_Accidentes_Viales/blob/main/Informe.pdf)
 
-+ Acceso al Dashboard [Link](...).
++ Acceso al Dashboard [Link](https://github.com/PaulaPerosio/PI_Analisis_Accidentes_Viales/blob/main/Power_BI/PI_2_Dashboard.pbix).
 
 + Acceso a las bases de datos [Link](https://data.buenosaires.gob.ar/dataset).
 
